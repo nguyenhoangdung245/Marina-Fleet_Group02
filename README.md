@@ -11,11 +11,11 @@
 
 =======================================
 
-Documentations : https://github.com/nguyenhoangdung245/Marina-Fleet_Group02
+Documentations : https://github.com/nguyenhoangdung245/Marina-Fleet_Group02/tree/main/Documentations
 
 =======================================
 
-Published website : 
+Published website : https://github.com/nguyenhoangdung245/Marina-Fleet_Group02
 
 =======================================
 
