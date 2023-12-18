@@ -15,7 +15,7 @@ Documentations : https://github.com/nguyenhoangdung245/Marina-Fleet_Group02/tree
 
 =======================================
 
-Published website : https://github.com/nguyenhoangdung245/Marina-Fleet_Group02
+Published website : https://nguyenhoangdung245.github.io/Marina-Fleet_Group02/
 
 =======================================
 
